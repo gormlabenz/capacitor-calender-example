@@ -1,0 +1,6 @@
+{
+  "appId": "de.gormlabenz.calender",
+  "appName": "capacitor-calender",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
